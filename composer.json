@@ -10,18 +10,10 @@
         "php": ">=5.3.0"
         
     },
-    "require-dev": {
-        "illuminate/console": "4.0.x"
-        
-    },
+    
     "autoload": {
         "psr-0": {"Mannysoft\\Date": ""}
     },
     "target-dir": "Mannysoft/Date",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "4.0-dev"
-        }
-    },
-    "minimum-stability": "dev"
+        "minimum-stability": "dev"
 }
