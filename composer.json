@@ -15,7 +15,7 @@
 	   "files": [
             "src/Mannysoft/Date/Date.php"
         ],
-        "psr-0": {"Mannysoft\\Date": ""}
+        "psr-0": {"Mannysoft\\Date": "src/"}
     },
     
     "minimum-stability": "dev"
