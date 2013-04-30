@@ -17,6 +17,6 @@
         ],
         "psr-0": {"Mannysoft\\Date": ""}
     },
-    "target-dir": "Mannysoft/Date",
-        "minimum-stability": "dev"
+    
+    "minimum-stability": "dev"
 }
