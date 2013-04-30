@@ -1,8 +1,9 @@
 <?php
+namespace Mannysoft\Date;
 
 class Date{
 	
-	function yes()
+	public static function yes()
 	{
 		echo 'yes';	
 	}
