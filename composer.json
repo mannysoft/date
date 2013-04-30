@@ -12,6 +12,9 @@
     },
     
     "autoload": {
+	   "files": [
+            "src/Mannysoft/Date/Date.php"
+        ],
         "psr-0": {"Mannysoft\\Date": ""}
     },
     "target-dir": "Mannysoft/Date",
