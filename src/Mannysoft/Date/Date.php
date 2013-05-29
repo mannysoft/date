@@ -5,6 +5,11 @@ class Date{
 	
 	public static function yes()
 	{
-		echo 'yes';	
+		echo 'yes yes yes';	
+	}
+	
+	public static getLastDay($month, $year)
+	{
+		return idate('d', mktime(0, 0, 0, ($month + 1), 0, $year));
 	}
 }
