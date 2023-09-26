@@ -9,7 +9,7 @@ class Date{
 		echo 'yes yes yes';	
 	}
 	
-	public static getLastDay($month, $year)
+	public static function getLastDay($month, $year)
 	{
 		return idate('d', mktime(0, 0, 0, ($month + 1), 0, $year));
 	}
